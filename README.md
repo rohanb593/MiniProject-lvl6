@@ -1,3 +1,5 @@
+**Status:** ✅ Completed
+
 # The Boggle Monster Game
 
 A text-based adventure game written in Java where players explore caverns, collect weapons, fight monsters, and attempt to defeat the Boggle Monster.
